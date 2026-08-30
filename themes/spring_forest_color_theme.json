@@ -63,6 +63,8 @@
     "editorGroupHeader.tabsBackground": "#FFFFFA",
     "editorGroupHeader.noTabsBackground": "#F9FCF2",
     "editorGroup.border": "#F3F9E5",
+    "sash.hoverBorder": "#BCE2A6",
+    "sash.activeBorder": "#BCE2A6",
     "tab.activeBackground": "#FFFFFA",
     "tab.activeForeground": "#5C6A72",
     "tab.inactiveBackground": "#F9FCF2",
