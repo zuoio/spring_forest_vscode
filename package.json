@@ -1,0 +1,34 @@
+{
+  "name": "spring-forest-vscode",
+  "displayName": "Spring Forest VSCode",
+  "description": "Spring Forest and Night Forest color themes for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "spring-forest",
+  "engines": {
+    "vscode": "^1.134.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "everforest",
+    "spring-forest",
+    "night-forest"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spring Forest",
+        "uiTheme": "vs",
+        "path": "./themes/Spring Forest-color-theme.json"
+      },
+      {
+        "label": "Night Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Forest-color-theme.json"
+      }
+    ]
+  }
+}
