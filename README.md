@@ -10,8 +10,8 @@ Spring Forest and Night Forest are two Visual Studio Code color themes based on 
 The interface colors, editor colors, terminal ANSI colors, TextMate scopes, and semantic token colors are defined in:
 
 ```text
-themes/Spring Forest-color-theme.json
-themes/Night Forest-color-theme.json
+themes/spring_forest_color_theme.json
+themes/night_forest_color_theme.json
 ```
 
 ## Run locally

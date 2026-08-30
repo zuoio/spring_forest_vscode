@@ -22,12 +22,12 @@
       {
         "label": "Spring Forest",
         "uiTheme": "vs",
-        "path": "./themes/Spring Forest-color-theme.json"
+        "path": "./themes/spring_forest_color_theme.json"
       },
       {
         "label": "Night Forest",
         "uiTheme": "vs-dark",
-        "path": "./themes/Night Forest-color-theme.json"
+        "path": "./themes/night_forest_color_theme.json"
       }
     ]
   }
